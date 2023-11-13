@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<!--
-   Property List.plist
-   MovieList
-
-   Created by Enes Sancar on 12.11.2023.
-   Copyright (c) 2023 ___ORGANIZATIONNAME___. All rights reserved.
--->
 <plist version="1.0">
-<dict/>
+<dict>
+	<key>apiKey</key>
+	<string>7bd427bdd0122f70d9a2e14bf7c41fa4</string>
+	<key>baseURL</key>
+	<string>https://api.themoviedb.org/3/tv/</string>
+</dict>
 </plist>

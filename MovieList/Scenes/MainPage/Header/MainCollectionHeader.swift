@@ -7,11 +7,12 @@
 
 import UIKit
 
-class MainCollectionHeader: UICollectionReusableView {
+final class MainCollectionHeader: UICollectionReusableView {
 
+    @IBOutlet weak var headerTitle: UILabel!
+    
     override func awakeFromNib() {
         super.awakeFromNib()
-        // Initialization code
     }
     
 }
